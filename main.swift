@@ -1,5 +1,5 @@
 public class MrCoxallStacks {
-  private var aStack: Array<Int> = Array()
+  private var aStack: [Int] = Array()
 
   func push(pushValue: Int) {
     print("Adding ", pushValue, " to stack.")
